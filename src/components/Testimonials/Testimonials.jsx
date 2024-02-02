@@ -4,20 +4,20 @@ import React from "react";
 const TestimonialData = [
   {
     id: 1,
-    name: "Victor",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "Emily Parker",
+    text: " They have a great selection of unique items at reasonable prices. I've already recommended Shopsy to all my friends.",
     img: "https://picsum.photos/101/101",
   },
   {
     id: 2,
-    name: "Satya Nadella",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "John Kim",
+    text: "The quality is amazing, and it arrived quickly and in perfect condition. The customer service was also fantastic.",
     img: "https://picsum.photos/102/102",
   },
   {
     id: 3,
-    name: "Virat Kohli",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "Mark Jackson",
+    text: "Finding unique and stylish clothes online can be a gamble, but Shopsy always delivers!. The customer service was also fantastic.",
     img: "https://picsum.photos/104/104",
   },
 //   {

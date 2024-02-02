@@ -24,7 +24,7 @@ const ImageList = [
       img: Image3,
       title: "70% off on all Products Sale",
       description:
-        "consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Express yourself with the latest styles. Shop fresh looks that won't break the bank.",
     },
   ];
 
